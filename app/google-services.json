@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550157755599",
+    "project_id": "writebuddyai-91b75",
+    "storage_bucket": "writebuddyai-91b75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550157755599:android:0c20ba98edf144476543ba",
+        "android_client_info": {
+          "package_name": "com.tamersarioglu.writebuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhpQiZMvnCJHk_-MJIatWFidVUgp9kQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
